@@ -1,4 +1,4 @@
-# python_network_scanner
+# Python Network Scanner
 
 # Network Scanner
 
