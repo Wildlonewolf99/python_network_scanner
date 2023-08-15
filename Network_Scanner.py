@@ -3,8 +3,8 @@ import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
-print("Thank you for using IP_Scanner by Wildlonewolf")
-print("Buy me a coffee: https://paypal.me/PraveenThamotharan?country.x=MY&locale.x=en_US")
+print("Thank you for using IP_Scanner by Wildlonewolf\n")
+print("Buy me a coffee: https://paypal.me/PraveenThamotharan?country.x=MY&locale.x=en_US\n\n")
 
 KNOWN_PORTS = [80, 443, 8006, 8080]  # Add more ports as needed
 
